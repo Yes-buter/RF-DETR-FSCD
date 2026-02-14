@@ -18,7 +18,7 @@
 | ![7](demo_pic/7.png) | ![8](demo_pic/8.png) | ![9](demo_pic/9.png) |
 | ![10](demo_pic/10.png) | ![11](demo_pic/11.png) | ![12](demo_pic/12.png) |
 
-> *注：红色框为用户提供的 Exemplar，绿色框为模型检测出的目标。*
+> *注：黄色框为用户提供的 Exemplar，橙色框为模型检测出的目标。*
 
 ---
 
