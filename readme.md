@@ -1,14 +1,10 @@
 # RF-DETR-FSCD: Few-Shot Counting and Detection
 
-<div align="center">
+## <a name="visual-results"></a>权重文件 (Visual Results)
+💡 Note: 算力限制当前提供的权重仅训练了 9 个 Epoch。随着训练轮数的增加，模型性能有望进一步提升。
+通过网盘分享的文件：checkpoint0009.pth
+链接: https://pan.baidu.com/s/1qjRXuc6sIl0WlkLGKzSyiA?pwd=wfei 提取码: wfei
 
-**基于 [RF-DETR (ICLR 2026)](https://www.google.com/search?q=https://github.com/roboflow/rf-detr) 改造的 SOTA 少样本目标计数与检测模型**
-
-[可视化展示](https://www.google.com/search?q=%23visual-results) • [简介](https://www.google.com/search?q=%23introduction) • [核心架构](https://www.google.com/search?q=%23model-architecture) • [安装](https://www.google.com/search?q=%23installation) • [训练](https://www.google.com/search?q=%23training) • [推理](https://www.google.com/search?q=%23inference)
-
-</div>
-
----
 
 ## <a name="visual-results"></a>🖼️ 可视化展示 (Visual Results)
 
