@@ -155,6 +155,15 @@ python EvalFscd.py \
 
 ---
 
+<a name="future-work"></a>📅 后续计划 (Future Work)
+当前版本展示了 RF-DETR 在少样本计数任务上的潜力，但仍有优化空间。我们计划在未来版本中通过以下方式进一步提升性能：
+
+[ ] 优化边界框损失 (Refine BBox Loss): 计划改进回归损失函数（如引入 CIoU 或 DIoU），以进一步提升检测框的定位精度 (IoU)。
+
+[ ] 引入 NMS 后处理 (Post-processing): 探索在推理阶段加入非极大值抑制 (Non-Maximum Suppression)，以减少密集场景下的重叠预测框。
+
+[ ] 增加训练轮次 (Longer Training): 目前提供的权重仅训练了 9 个 Epoch。我们计划进行更长时间的训练，以充分挖掘模型潜力并提升泛化能力。
+
 ## Acknowledgement
 
 * Base model: [RF-DETR](https://www.google.com/search?q=https://github.com/roboflow/rf-detr)
