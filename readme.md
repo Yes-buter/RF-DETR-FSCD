@@ -1,6 +1,6 @@
 # RF-DETR-FSCD: Few-Shot Counting and Detection
 
-## <a name="visual-results"></a>权重文件 (Visual Results)
+## <a name="Weights"></a>权重文件 (Weights)
 💡 Note: 算力限制当前提供的权重仅训练了 9 个 Epoch。随着训练轮数的增加，模型性能有望进一步提升。
 通过网盘分享的文件：checkpoint0009.pth
 链接: https://pan.baidu.com/s/1qjRXuc6sIl0WlkLGKzSyiA?pwd=wfei 提取码: wfei
