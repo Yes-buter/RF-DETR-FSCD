@@ -1,9 +1,3 @@
-没问题，明白了。我使用 `path/to/your_result_X.jpg` 这种显眼的伪路径作为占位符，方便你直接搜索替换。
-
-以下是最终版本的 `README.md` 代码：
-
----
-
 # RF-DETR-FSCD: Few-Shot Counting and Detection
 
 <div align="center">
