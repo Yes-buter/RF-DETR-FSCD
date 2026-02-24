@@ -4,6 +4,9 @@
 💡 Note: 算力限制当前提供的权重仅训练了 10 个 Epoch。随着训练轮数的增加，模型性能有望进一步提升。
 通过网盘分享的文件：checkpoint0009.pth
 链接: https://pan.baidu.com/s/1qjRXuc6sIl0WlkLGKzSyiA?pwd=wfei 提取码: wfei
+通过网盘分享的文件：expA.pth
+链接: https://pan.baidu.com/s/129HcGQkFBY13cv2w64EVew?pwd=jp1e 提取码: jp1e
+（文件大小只有128.12mb，在训练时为了resume将日志保存，故498.90mb）
 
 
 ## <a name="visual-results"></a>🖼️ 可视化展示 (Visual Results)
