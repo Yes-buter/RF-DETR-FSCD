@@ -39,7 +39,8 @@
 * Base model: [RF-DETR](https://www.google.com/search?q=https://github.com/roboflow/rf-detr)
 * Dataset: [FSCD-147](https://www.google.com/search?q=https://github.com/VisWan/FSC-147)
 
-demo_pic/model.png
+![模型](demo_pic/model.png)
+
 
 # RF-DETR → FSCD 完整改造技术文档
 
